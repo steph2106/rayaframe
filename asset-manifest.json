@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rayaframe/static/css/main.c56cc3e6.css",
-    "main.js": "/rayaframe/static/js/main.995f7ed4.js",
+    "main.js": "/rayaframe/static/js/main.50f8941c.js",
     "static/js/453.96c9f61e.chunk.js": "/rayaframe/static/js/453.96c9f61e.chunk.js",
     "index.html": "/rayaframe/index.html",
     "main.c56cc3e6.css.map": "/rayaframe/static/css/main.c56cc3e6.css.map",
-    "main.995f7ed4.js.map": "/rayaframe/static/js/main.995f7ed4.js.map",
+    "main.50f8941c.js.map": "/rayaframe/static/js/main.50f8941c.js.map",
     "453.96c9f61e.chunk.js.map": "/rayaframe/static/js/453.96c9f61e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c56cc3e6.css",
-    "static/js/main.995f7ed4.js"
+    "static/js/main.50f8941c.js"
   ]
 }
